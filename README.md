@@ -1,2 +1,3 @@
 # UX-UI-case-studies_Portfolio
-Three case studies that are made during the Google UX design sertification course. Portfolio contains work related designs.
+The UX portfolio contains the latest experience and more information about my UX career.
+Three case studies are made during the Google UX design sertification course.
